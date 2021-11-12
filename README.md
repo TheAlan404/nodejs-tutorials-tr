@@ -1,2 +1,9 @@
 # nodejs-tutorials-tr
-Türkçe Node.JS tutorialları
+
+Merhaba! Yeni misin?
+[Bu linke tıklayarak başla.](./Beginning.md)
+
+İçindekiler
+===========
+
+- [1. Bölüm, Başlangıç](./Beginning.md)
