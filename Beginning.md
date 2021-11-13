@@ -53,6 +53,6 @@ ama başka alternatifler de var;
 `ctrl+c` çoğu programı cmd'de durdurur/kapatır.
 (nano hariç lol)
 
-[← readme/go bakc](./README.md)
+[← readme/go back](./README.md)
 
 [Okumaya dewam: JavaScript Basics](./Basics.md)
