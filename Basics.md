@@ -140,10 +140,52 @@ age = 3; // bebe
 
 const blackLivesMatter = true;
 // değiştiremezsin ağla
-``
+```
 
 > aslında let yada const yazmazsan da çalışır ama bozulma ihtimali çok yüksek lol
 
 ---
 
-[quicksave]
+## Değişkenlerle oynamak
+
+yani operatörler! ✨
+
+- `+`:
+   - string ve string: ikisini birleştirir
+   - string ve sayı: üstteki ile aynı, sayıyı stringe dönüştürür
+   - sayı ve sayı: toplama yapar
+- `-`, `*`, `/`: matematik işlemleri yapar, string varsa numara yapmaya çalışır
+
+ℹ️ Bu operatörlerde değişken ismini yada değerini kullanabilirsin
+
+ℹ️ Bunların yanına bir `=` eklersen o işlemi o değişkenle yapıp ekler
+
+**Örnekler**
+
+```
+let a = 1;
+
+a + 8 // 9 verir
+
+let b = 5;
+
+b - a // 4 verir
+
+b -= a; // b artık 4
+b = b - a; // bir üstteki ile aynı
+```
+
+```
+let isim = "buwak";
+let mesaj = "merhaba " + isim + ", çok tatlısın";
+
+console.log(mesaj); // "merhaba buwak, çok tatlısın"
+
+console.log("selam " + isim); // "selam buwak"
+```
+
+---
+
+📜 [← Menü](./README.md)
+
+➡️ [Basics 2](./Basics2.md)
