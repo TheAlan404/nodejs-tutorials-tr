@@ -7,3 +7,5 @@ Merhaba! Yeni misin?
 ===========
 
 - [1. Bölüm, Başlangıç](./Beginning.md)
+  nodejs kurulum ve kodu başlatma vs
+- [2: Basics](./Basics.md)
