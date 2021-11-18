@@ -162,7 +162,7 @@ yani operatörler! ✨
 
 **Örnekler**
 
-```
+```js
 let a = 1;
 
 a + 8 // 9 verir
@@ -175,7 +175,7 @@ b -= a; // b artık 4
 b = b - a; // bir üstteki ile aynı
 ```
 
-```
+```js
 let isim = "buwak";
 let mesaj = "merhaba " + isim + ", çok tatlısın";
 
